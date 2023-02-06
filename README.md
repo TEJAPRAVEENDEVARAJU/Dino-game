@@ -1,2 +1,2 @@
 # DragonFly-Game
-<img src="view.png">
+<img src="js.png">
